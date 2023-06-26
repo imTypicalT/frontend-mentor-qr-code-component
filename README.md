@@ -54,6 +54,5 @@ Most of this project took place within the stylesheet. There I was able to figur
 
 ## Author
 
--   GitHub - [ Typical Taylor ](https://github.com/imTypicalT)
 -   Frontend Mentor - [@imTypicalT](https://www.frontendmentor.io/profile/imTypicalT)
 -   Twitter - [@imTypicalT](https://twitter.com/imTypicalT)
