@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-htmlcss-solution-DAFpWJoXIf)
 -   Live Site URL: [Click Here](https://imtypicalt.github.io/frontend-mentor-qr-code-component/)
 
 ## My process
@@ -51,6 +51,7 @@ Most of this project took place within the stylesheet. There I was able to figur
 ### Useful resources
 
 -   [W3Schools](https://www.w3schools.com/css/) - This was a big help and answered many questions I had along the way. The interactive examples were a huge help.
+-   [HackerNoon](https://hackernoon.com/the-best-css-unit-for-a-responsive-design-ku6q37to) - This article on HackerNoon helped me understand the benefits of using 'em' font-sizes instead of 'px' in order to create a more responsive product.
 
 ## Author
 
