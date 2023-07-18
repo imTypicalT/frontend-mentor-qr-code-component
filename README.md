@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Most of this project took place within the stylesheet. There I was able to figure out how to center the flexbox on the page, and center the elements inside of it. Getting the opportunity to figure out how to make rounded corners was pretty fun too, it makes the finished project look much mor polished.
+Most of this project took place within the stylesheet. There I was able to figure out how to use flexbox and center the elements inside of it. Getting the opportunity to figure out how to make rounded corners was pretty fun too, it makes the finished project look much more polished.
 
 ```css
 .box {
